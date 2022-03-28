@@ -1,0 +1,44 @@
+:root{
+    font-size: 14px;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    font-size: 18px;
+}
+
+.body{
+    font-size: 14px;
+}
+
+.small{
+    font-size: 12px;
+}
+
+.wrapper{
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+}
+
+.col-1{
+    background-color: bisque;
+}
+
+.col-2{
+    background-color: beige;
+}
+
+.day-wrapper{
+    display: flex;
+}
+.day{
+    background-color: aliceblue;
+}
